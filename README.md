@@ -17,3 +17,8 @@ professional, and are easy to read. Use the
 [Markdown Guide](https://guides.github.com/features/mastering-markdown/), and
 have fun! :octocat:
 
+Name: Michael Gallagher
+
+Lab Status: Partially done
+
+Questions: What am I supposed to do and turn in?
