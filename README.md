@@ -19,6 +19,8 @@ have fun! :octocat:
 
 Name: Michael Gallagher
 
+Cal Poly Email: msgallag@calpoly.edu
+
 Lab Status: I think it is completely done?
 
 Comlpilation and execution: Use "make" in the command prompt. Then use "./piku"
