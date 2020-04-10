@@ -19,6 +19,10 @@ have fun! :octocat:
 
 Name: Michael Gallagher
 
-Lab Status: Partially done
+Lab Status: I think it is completely done?
+
+Comlpilation and execution: Use "make" in the command prompt. Then use "./piku"
 
 Questions: What am I supposed to do and turn in?
+
+Issues: It's been forever since I did assembly, I only touched on the RAT assembler. Cal Poly's VPN service is not thebest so I am going to use my own RP. I only just joined the class so I was behind on lecture.
